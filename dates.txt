@@ -1,0 +1,4 @@
+Evt#	Event Name                      Start Time           	End Time
+2:	CMSC 433			09/29/2014  5:30PM	09/29/2014  6:45PM
+3:	Office hours			09/29/2014  7:00PM	09/29/2014  8:00PM
+4:	Work on thesis			09/29/2014  8:00AM	09/30/2014  8:00PM

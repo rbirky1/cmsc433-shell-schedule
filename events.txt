@@ -1,0 +1,5 @@
+bash schedule.sh add "Happy hour" "October 3 11:00pm" "October 4 3:00am"
+
+bash schedule.sh add "CMSC 433" "Monday 5:30pm" "Monday 6:45pm"
+
+bash schedule.sh add "Work on thesis" "Monday 8:00am" "Tuesday 8:00pm"
